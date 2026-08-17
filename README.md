@@ -62,6 +62,22 @@ Próximas etapas:
 - Validação com usuários
 - Evolução das funcionalidades
 
+  ## 🎓 Contexto acadêmico
+
+O Guardiã Digital foi desenvolvido inicialmente como projeto acadêmico
+na disciplina de Design Profissional, com foco em Sustentabilidade,
+Inclusão e Impacto Social.
+
+O projeto foi avaliado considerando estrutura, inclusão e acessibilidade,
+sustentabilidade, desenvolvimento da solução, impacto social e
+comunicação profissional.
+
+**Resultado da avaliação: 1,00 / 1,00 (pontuação máxima).**
+
+O feedback destacou a aplicação das diretrizes WCAG 2.2, a preocupação
+com conectividade limitada e dispositivos antigos, práticas de TI Verde
+e a definição de métricas de impacto social.
+
 ## 👩‍💻 Autora
 
 Thais Barbosa Moreira  
